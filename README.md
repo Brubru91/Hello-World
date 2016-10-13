@@ -1,4 +1,4 @@
 # Hello-World
 
-First try with GITHUB
+This is my first commit ^^
 Adding changes manually v1
